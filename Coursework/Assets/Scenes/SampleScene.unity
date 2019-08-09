@@ -355,3 +355,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9baf6bec23fa2a54db59c72602db3955, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  texNames:
+  - Grass
+  - Stone
+  - Dirt
+  - Sand
+  texCoords:
+  - {x: 0, y: 0}
+  - {x: 0.5, y: 0}
+  - {x: 0, y: 0.5}
+  - {x: 0.5, y: 0.5}
+  texSize: 0.5
